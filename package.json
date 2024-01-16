@@ -1,0 +1,11 @@
+{
+  "name": "trpc-angular",
+  "version": "0.0.0",
+  "description": "End-to-end typesafe APIs in Angular applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hichem Fantar",
+  "license": "ISC"
+}
